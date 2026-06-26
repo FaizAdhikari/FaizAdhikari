@@ -1,186 +1,279 @@
 <div align="center">
 
-# Hi there 👋 I'm Faiz Adhikari
+# 👋 Hey, I'm Faiz Adhikari
 
-### Software Engineer | Java Backend Developer | Full Stack Developer | System Design Enthusiast
+### Senior Software Engineer • Java Backend Developer • Java Full-Stack Developer • Distributed Systems • AI Engineer
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C853&center=true&vCenter=true&width=600&lines=Java+Backend+Developer;Spring+Boot+%7C+Microservices;Full+Stack+Developer;DSA+%7C+System+Design+Creator;Building+Scalable+Applications" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00C853&center=true&vCenter=true&width=800&lines=Building+Scalable+Backend+Systems;Java+%7C+Spring+Boot+%7C+Microservices;Distributed+Systems+Enthusiast;Cloud+Native+Applications;System+Design+%7C+DSA+%7C+AI"/>
+
+<p>
+<img src="https://komarev.com/ghpvc/?username=FaizAdhikari&label=Profile%20Views&color=0e75b6&style=flat" />
+<img src="https://img.shields.io/github/followers/FaizAdhikari?style=social" />
+<img src="https://img.shields.io/github/stars/FaizAdhikari?style=social" />
+</p>
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+# 🚀 About Me
 
-- 💼 Software Engineer with experience building scalable backend systems
-- 🚀 Passionate about Java, Spring Boot, Distributed Systems & System Design
-- 🌱 Currently exploring
-  - Agentic AI
-  - Large Language Models (LLMs)
-  - AI Automation
-  - Advanced System Design
-- 💻 Love solving Data Structures & Algorithms problems
-- 🎥 I simplify complex backend concepts on social media for thousands of developers
-- ⚡ Strong believer in writing clean, maintainable and scalable code
+I'm passionate about designing **high-performance backend systems** that are scalable, resilient, and cloud-ready.
 
----
+I enjoy solving complex engineering problems involving distributed systems, microservices, performance optimization, event-driven architecture, and AI-powered applications.
 
-# 🚀 Tech Stack
+### What I'm passionate about
 
-### Languages
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript)
+- ☕ Java Backend Development
+- ⚡ Spring Boot & Spring Cloud
+- 🏗 Microservices Architecture
+- 🌍 Distributed Systems
+- ☁️ Cloud Native Applications
+- 📊 High-Level & Low-Level Design
+- 📈 Performance Optimization
+- 🤖 Agentic AI, RAG & LLM  Applications
+- 💡 Data Structures & Algorithms
 
 ---
 
-### Backend
+# ⚙️ Tech Stack
 
-![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot)
-![Spring MVC](https://img.shields.io/badge/Spring_MVC-6DB33F?style=for-the-badge)
-![Spring Security](https://img.shields.io/badge/SpringSecurity-6DB33F?style=for-the-badge)
-![Hibernate](https://img.shields.io/badge/Hibernate-brown?style=for-the-badge)
-![JPA](https://img.shields.io/badge/JPA-orange?style=for-the-badge)
-![REST API](https://img.shields.io/badge/REST-API-blue?style=for-the-badge)
-![Microservices](https://img.shields.io/badge/Microservices-red?style=for-the-badge)
+## 💻 Languages
 
----
+<p>
 
-### Frontend
+<img src="https://skillicons.dev/icons?i=java,js,python,cpp"/>
 
-![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
-![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-purple?style=for-the-badge&logo=bootstrap)
+</p>
 
 ---
 
-### Databases
 
-![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql)
+
+## 🏗 Distributed Systems & Microservices
+
+- Microservices Architecture
+- Spring Cloud Gateway
+- Eureka Service Discovery
+- Consul
+- Load Balancing
+- API Gateway
+- Kafka
+- Apache ZooKeeper
+- Resilience4j
+- Circuit Breaker
+- Retry Pattern
+- Service Discovery
+- Event Driven Architecture
 
 ---
 
-### DevOps & Tools
+## 🗄 Databases & Caching
 
-![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![Jenkins](https://img.shields.io/badge/Jenkins-red?style=for-the-badge&logo=jenkins)
-![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker)
-![Postman](https://img.shields.io/badge/Postman-orange?style=for-the-badge&logo=postman)
-![Maven](https://img.shields.io/badge/Maven-red?style=for-the-badge)
+<p>
+
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis"/>
+
+</p>
+
+- PostgreSQL
+- MySQL
+- MongoDB
+- Redis
 
 ---
 
-# 📌 Featured Projects
+## ☁️ Cloud & DevOps
 
+<p>
 
-### 🤖 Agentic AI
+<img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,jenkins,git,github,gitlab,maven,gradle"/>
 
-Collection of AI Agents, LLM Applications and Automation Workflows.
+</p>
 
-Topics include
+---
+
+## 🛠 Developer Tools
+
+- IntelliJ IDEA
+- Postman
+- Swagger/OpenAPI
+- JIRA
+- Splunk
+- Claude Code
+- Cursor
+- GitHub Copilot
+
+---
+
+## 📚 Core CS
+
+- Data Structures & Algorithms
+- Object-Oriented Design
+- Design Patterns
+- High-Level Design
+- Low-Level Design
+- Distributed Systems
+- REST APIs
+- Multithreading
+- Concurrency
+- System Design
+
+---
+
+## 🌱 Frameworks & Libraries
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=spring,react,angular"/>
+
+</p>
+
+- Spring Boot
+- Spring Cloud
+- Spring Security
+- Spring Data JPA
+- Hibernate
+- JWT
+- OAuth2
+
+---
+
+# 🌟 Featured Projects
+
+## 🌍 Wanderlust — Cloud-Native Travel Platform
+
+A scalable travel booking platform designed using modern distributed system principles.
+
+### Architecture
+
+```
+Client
+   │
+Load Balancer
+   │
+API Gateway
+   │
+───────────────────────────────
+│ User Service
+│ Booking Service
+│ Hotel Service
+│ Review Service
+│ Search Service
+───────────────────────────────
+   │
+Kafka Event Bus
+   │
+Redis Cache
+   │
+PostgreSQL
+```
+
+### Highlights
+
+- Spring Boot Microservices
+- API Gateway
+- Eureka Service Discovery
+- JWT Authentication
+- OAuth2 Security
+- Kafka Messaging
+- Redis Caching
+- PostgreSQL
+- Dockerized Services
+- Kubernetes Ready
+- CI/CD Pipeline
+- Swagger Documentation
+- Fault-Tolerant Communication
+- Resilient APIs with Resilience4j
+- Independent Service Deployment
+
+### Engineering Highlights
+
+- Modular microservice architecture
+- Centralized API routing
+- Secure authentication & authorization
+- Distributed service discovery
+- Asynchronous event processing
+- High availability architecture
+- Optimized API response times using Redis
+- Docker-based deployment
+- Cloud-ready architecture
+
+---
+
+## 🤖 Agentic AI
+
+Production-ready AI applications built around autonomous agents.
+
+### Includes
 
 - AI Agents
-- LangChain
 - MCP
-- Automation
-- Prompt Engineering
+- LangChain
+- LLM Integrations
+- AI Automation
 - Multi-Agent Systems
+- Prompt Engineering
+- Retrieval-Augmented Generation (RAG)
 
 ---
 
-### 🚀 Wanderlust
+## 🏗 System Design Repository
 
-A scalable full-stack travel platform built using Java Spring Boot and React.
+A collection of High-Level & Low-Level Design implementations.
 
-✨ Highlights
-
-- REST APIs
-- JWT Authentication
-- CRUD Operations
-- Responsive UI
-- Optimized Performance
-- CI/CD Pipeline
-- JUnit Testing
-- Clean Architecture
-
----
-
-### 🏗️ System Design Repository
-
-Comprehensive High-Level Design and Low-Level Design implementations.
-
-Includes
+### High-Level Design
 
 - WhatsApp
 - Uber
 - Tinder
-- YouTube
 - Instagram
 - Netflix
+- YouTube
 - URL Shortener
-- Parking Lot
-- Elevator
-- Distributed Cache
 - Rate Limiter
+- Payment Gateway
+- Notification Service
+- Distributed Cache
+
+### Low-Level Design
+
+- Elevator
+- Parking Lot
+- BookMyShow
+- ATM
+- Snake & Ladder
+- Chess
+- Splitwise
 
 ---
 
-# 📚 Currently Learning
 
-```text
-✔ Advanced Java
-✔ Spring Boot
-✔ Distributed Systems
-✔ Kubernetes
-✔ Docker
-✔ Kafka
-✔ Redis
-✔ AWS
-✔ AI Engineering
-✔ Agentic AI
-✔ Advanced System Design
-```
+# 🎯 Engineering Interests
+
+- Backend Engineering
+- Distributed Systems
+- Cloud Native Development
+- Event Driven Systems
+- High Performance APIs
+- Microservices
+- Performance Engineering
+- AI Engineering
+- System Design
 
 ---
 
-# 📈 GitHub Stats
+# 📊 GitHub Stats
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=FaizAdhikari&show_icons=true&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FaizAdhikari&layout=compact&theme=tokyonight"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=FaizAdhikari&show_icons=true&theme=tokyonight&include_all_commits=true&rank_icon=github"/>
 
 </p>
 
 ---
 
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=FaizAdhikari&theme=tokyonight"/>
-
-</p>
-
----
-
-# 🏆 Achievements
-
-- 💼 Software Engineer
-- ☕ Java Backend Developer
-- 🚀 Full Stack Developer
-- 📚 DSA & System Design Educator
-- 🤖 Building AI & Agentic AI Projects
-- 🌍 Passionate about scalable backend architecture
-
----
-
-# 🤝 Let's Connect
+# 🤝 Connect With Me
 
 <p align="center">
 
@@ -198,8 +291,8 @@ Includes
 
 <div align="center">
 
-### ⭐ If you like my work, consider starring the repositories!
+## ⭐ Building scalable systems, exploring AI, and sharing knowledge.
 
-*"Code. Learn. Build. Share. Repeat."*
+*"Great software isn't just written—it's designed."*
 
 </div>
