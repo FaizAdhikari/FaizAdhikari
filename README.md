@@ -6,11 +6,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00C853&center=true&vCenter=true&width=800&lines=Building+Scalable+Backend+Systems;Java+%7C+Spring+Boot+%7C+Microservices;Distributed+Systems+Enthusiast;Cloud+Native+Applications;System+Design+%7C+DSA+%7C+AI"/>
 
-<p>
-<img src="https://komarev.com/ghpvc/?username=FaizAdhikari&label=Profile%20Views&color=0e75b6&style=flat" />
-<img src="https://img.shields.io/github/followers/FaizAdhikari?style=social" />
-<img src="https://img.shields.io/github/stars/FaizAdhikari?style=social" />
-</p>
+
 
 </div>
 
