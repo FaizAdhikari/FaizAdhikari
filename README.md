@@ -263,15 +263,7 @@ A collection of High-Level & Low-Level Design implementations.
 
 ---
 
-# 📊 GitHub Stats
 
-<p align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=FaizAdhikari&show_icons=true&theme=tokyonight&include_all_commits=true&rank_icon=github"/>
-
-</p>
-
----
 
 # 🤝 Connect With Me
 
